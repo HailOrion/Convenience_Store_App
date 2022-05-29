@@ -1,3 +1,2 @@
 # Convenience_Store_App
-An app that depicts the functions of the employees. 
-An intriguing convenience store app that depicts the functions of the manager cashier and customer. 
+An intriguing app that depicts the functions of the customer and the employees including the manager and cashier.
